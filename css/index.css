@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background-color:#0000
+}
 main{
     width: 50%;
     height: 40vh;
